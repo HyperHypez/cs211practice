@@ -25,7 +25,7 @@ void reed_ekidan2() {
 void hvu28_spate596(){
   printf("Harrison Vu and Sagar Patel\n");
   printf("We learned that git/github is a really collaborative tool to push and pull code from other people.\n");
-  printf("Only problem is that setting up the token and SSH key is a bit confusing. Unlike the user interface is easy.\n");
+  printf("Only problem is that setting up the token and SSH key is a bit confusing to setup. Unlike the user interface is easy.\n");
 
 }
 
