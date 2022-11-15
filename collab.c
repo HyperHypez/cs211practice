@@ -34,6 +34,7 @@ int main()
     
     reed_ekidan2();
     hvu28_spate596();
+    printf("\n********************************");
     
     return 0;
 }
