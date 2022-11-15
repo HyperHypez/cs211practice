@@ -21,7 +21,6 @@ void reed_ekidan2() {
   printf("We learned that git and GitHub are amazing, powerful tools!\n");
 }
 
-
 void hvu28_spate596(){
   printf("Harrison Vu and Sagar Patel\n");
   printf("We learned that git/github is a really collaborative tool to push and pull code from other people.\n");
@@ -34,6 +33,7 @@ int main()
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
     reed_ekidan2();
+    hvu28_spate596();
     
     return 0;
 }
